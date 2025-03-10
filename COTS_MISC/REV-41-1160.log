@@ -1,0 +1,89 @@
+﻿STEP to UG
+! INFO-     NX STEP AP203 - V2306.8900
+! INFO-      
+! INFO-     Start of Translation: 9-MAR-2025  1:42:13 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\erikb\OneDrive\Desktop\ME-588-Team9-CAD\COTS_MISC\REV-41-1160.STEP
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      STEP AP214
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        REV-41-1160.STEP
+! SUMMARY-  Date             2017-04-01T04:54:05
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      SwSTEP 2.0
+! SUMMARY-  Orig_System      SolidWorks 2016
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:   1402
+! SUMMARY-  application_context ........................................:      2
+! SUMMARY-  axis2_placement_3d .........................................:   2709
+! SUMMARY-  b_spline_curve_with_knots ..................................:    776
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:    116
+! SUMMARY-  b_spline_surface_with_knots ................................:    160
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:     99
+! SUMMARY-  cartesian_point ............................................:  18948
+! SUMMARY-  circle .....................................................:   1565
+! SUMMARY-  closed_shell ...............................................:     23
+! SUMMARY-  conical_surface ............................................:    484
+! SUMMARY-  cylindrical_surface ........................................:    381
+! SUMMARY-  direction ..................................................:   6665
+! SUMMARY-  edge_curve .................................................:   3704
+! SUMMARY-  edge_loop ..................................................:   1440
+! SUMMARY-  face_bound .................................................:     38
+! SUMMARY-  face_outer_bound ...........................................:   1402
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:   1427
+! SUMMARY-  length_unit_and_si_unit ....................................:   1427
+! SUMMARY-  line .......................................................:   1247
+! SUMMARY-  manifold_solid_brep ........................................:     23
+! SUMMARY-  oriented_edge ..............................................:   7408
+! SUMMARY-  plane ......................................................:    250
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:   1427
+! SUMMARY-  product ....................................................:      1
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:      1
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation_with_specified_source .........:      1
+! SUMMARY-  product_definition_shape ...................................:      1
+! SUMMARY-  product_related_product_category ...........................:      1
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:   1427
+! SUMMARY-  toroidal_surface ...........................................:     28
+! SUMMARY-  uncertainty_measure_with_unit ..............................:   1427
+! SUMMARY-  vector .....................................................:   1247
+! SUMMARY-  vertex_point ...............................................:   2342
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                          59601
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 9-MAR-2025 1:42:14 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 9-MAR-2025  1:42:17 PM
+! INFO-     Filing Part ..: C:\Users\erikb\OneDrive\Desktop\ME-588-Team9-CAD\COTS_MISC\REV-41-1160.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid/Sheet .................:    23
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             23
+! INFO-      
+! INFO-     Total number of solids input for this translation       :        23
+! INFO-      
+! INFO-     Number of solids created without body validation faults :        23
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 9-MAR-2025  1:42:18 PM
+! INFO-      
